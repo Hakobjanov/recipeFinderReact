@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recipeFinderReact/static/css/main.1a586c5a.chunk.css",
+    "main.js": "/recipeFinderReact/static/js/main.e52f8e4f.chunk.js",
+    "main.js.map": "/recipeFinderReact/static/js/main.e52f8e4f.chunk.js.map",
+    "runtime-main.js": "/recipeFinderReact/static/js/runtime-main.93e1cd4d.js",
+    "runtime-main.js.map": "/recipeFinderReact/static/js/runtime-main.93e1cd4d.js.map",
+    "static/js/2.0a6a514c.chunk.js": "/recipeFinderReact/static/js/2.0a6a514c.chunk.js",
+    "static/js/2.0a6a514c.chunk.js.map": "/recipeFinderReact/static/js/2.0a6a514c.chunk.js.map",
+    "index.html": "/recipeFinderReact/index.html",
+    "precache-manifest.e37af81596cc2797f25abc1a3f0e6457.js": "/recipeFinderReact/precache-manifest.e37af81596cc2797f25abc1a3f0e6457.js",
+    "service-worker.js": "/recipeFinderReact/service-worker.js",
+    "static/css/main.1a586c5a.chunk.css.map": "/recipeFinderReact/static/css/main.1a586c5a.chunk.css.map",
+    "static/js/2.0a6a514c.chunk.js.LICENSE.txt": "/recipeFinderReact/static/js/2.0a6a514c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93e1cd4d.js",
+    "static/js/2.0a6a514c.chunk.js",
+    "static/css/main.1a586c5a.chunk.css",
+    "static/js/main.e52f8e4f.chunk.js"
+  ]
+}
